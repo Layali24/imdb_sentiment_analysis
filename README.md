@@ -17,6 +17,7 @@ This project is practical, simple, and perfect as a portfolio piece for Machine 
 ---
 
 ## 📂 Project Structure
+```
 imdb-sentiment-analysis/
 │
 ├── notebooks/
@@ -31,6 +32,7 @@ imdb-sentiment-analysis/
 │
 ├── requirements.txt
 └── README.md
+```
 ---
 
 ## 📊 Dataset Information
