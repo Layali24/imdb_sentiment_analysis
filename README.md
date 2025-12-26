@@ -12,7 +12,6 @@ The goal is to create a model that:
 - Converts the text into numerical features using **TF-IDF**
 - Predicts whether the sentiment is **positive** or **negative**
 
-This project is practical, simple, and perfect as a portfolio piece for Machine Learning / NLP beginners.
 
 ---
 
